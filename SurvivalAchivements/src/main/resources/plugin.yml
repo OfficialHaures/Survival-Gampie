@@ -1,0 +1,4 @@
+name: SurvivalAchivements
+version: '${project.version}'
+main: nl.officialhaures.survivalachivements.SurvivalAchivements
+api-version: '1.21'
